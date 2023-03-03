@@ -123,7 +123,7 @@ p {
     width: 7vw;
   height: 14vh;
   background-color: #1d89e6;
-  object-fit: none;
+/*   object-fit: none; */
   object-position: center;
     /* max-width: 100%; */
     -webkit-border-radius: 50%;
